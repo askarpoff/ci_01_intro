@@ -33,6 +33,8 @@
 ![image](https://user-images.githubusercontent.com/108946489/224373992-3929b6e0-96e1-40fe-9c03-e5a00b949d17.png)
 
 6. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow приложите к решению задания.
+https://github.com/askarpoff/ci_01_intro/blob/main/COMMON.xml
+https://github.com/askarpoff/ci_01_intro/blob/main/BUG.xml
 
 
 ---
